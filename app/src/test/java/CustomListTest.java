@@ -29,5 +29,5 @@ public class CustomListTest {
         list.addCity(city);
         assertTrue(list.hasCity(city));
     }
-    
+
 }
